@@ -5,7 +5,7 @@ The eval_bleu.py aims to evaluate **bleu scores** of baseline model and finetune
 cd DeepSpeedExamples/applications/DeepSpeed-Chat/
 git clone https://github.com/fuyuantan/deepspeed_chat_evaluate_bleu.git
 ```
-2. Install dependencies
+2.Install dependencies
 ```
 pip install datasets sacrebleu torch transformers tqdm deepspeed accelerate
 ```
