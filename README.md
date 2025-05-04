@@ -1,4 +1,4 @@
-Aims: evaluate **bleu scores** of baseline model and finetune model from [https://github.com/deepspeedai/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat/ ](https://github.com/deepspeedai/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
+The eval_bleu.py aims to evaluate **bleu scores** of baseline model and finetune model from [https://github.com/deepspeedai/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat/ ](https://github.com/deepspeedai/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
 
 1.Add eval_bleu.py to DeepSpeedExamples/applications/DeepSpeed-Chat/. You should cloned [the](https://github.com/deepspeedai/DeepSpeedExamples.git) before.
 ```
